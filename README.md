@@ -10,13 +10,16 @@
 2) Define the necessary building blocks of the network
 
     a) conv-pool layers
+    
     b) flatten layer
+    
     c) fully connected layers
 
 3) Build the ConvNet
 4) Train the network
 
     a) First on one single batch
+    
     b) Then on the entire dataset
     
 5) Tune hyperparameters 
