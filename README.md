@@ -4,6 +4,14 @@
 
 ----
 
+### REQUIRMENTS
+
+This was created using Python 3.5 and the matching build of Tensorflow. 
+
+Other packages used in this were: tqdm, numpy, (python)math, sklearn(preprocessing), and pickle.
+
+----
+
 ## Walkthrough of the Notebook
 
 1) Download and preprocess the CIFAR-10 dataset. 
