@@ -26,7 +26,7 @@ Other packages used in this were: tqdm, numpy, (python)math, sklearn(preprocessi
 3) Build the ConvNet
 4) Train the network
 
-    a) First on one single batch
+    a) First on one single batch. This allows us to test and tune hyper-parameters and network architecture without have to train and backprop through the entire network/training data. Which in turn leads to more rapid iteration. 
     
     b) Then on the entire dataset
     
